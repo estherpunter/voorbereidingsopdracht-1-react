@@ -1,4 +1,5 @@
-import './App.css'
+import React from 'react';
+import './App.css';
 import {ReactComponent as Shoppingcart} from "./assets/winkelmandje.svg";
 import citroen from './assets/citroenen.jpeg'
 import limoen from './assets/limoenen.png'
